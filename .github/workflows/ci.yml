@@ -14,4 +14,3 @@ jobs:
         sudo pacman --noconfirm -Syu docker
         sudo systemctl start docker
         docker run --rm hello-world
-
